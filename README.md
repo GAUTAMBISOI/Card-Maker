@@ -1,4 +1,5 @@
-CardMarker 🎴✨
+# CardMarker 🎴✨
+
 A React.js application that generates customizable cards using form handling. Users can input their name, about section, and upload an image, and the app will dynamically create a card displaying the provided details.
 
 🚀 Features
